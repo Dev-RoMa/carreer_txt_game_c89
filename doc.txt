@@ -1,0 +1,12 @@
+career is a simple language based game; it is a critic to
+the educational system
+
+the game starts with a simple choice
+
+hey you've discovered something new
+
+do you want to make profit out of it?
+
+If u select yes, you start racking stacks
+
+If u select no, the game ends sending u back to the main menu
